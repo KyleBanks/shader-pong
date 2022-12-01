@@ -4,10 +4,10 @@ A simplistic game of pong implemented in a fragment shader and custom Unity rend
 
 There are definitely bugs. 
 
-For more information on the approach, (check out the YouTube video)[https://youtu.be/e-hTTVr_pDI]!
+For more information on the approach, [check out the YouTube video](https://www.youtube.com/watch?v=e-hTTVr_pDI)!
 
 ## License
 
-The majority of this project is made available under the (MIT License)[./LICENSE], so you're free to use it for any purpose. 
+The majority of this project is made available under the [MIT License](./LICENSE), so you're free to use it for any purpose. 
 
 The `_lineLine` and `_lineRect` functions in `Physics.hlsl` are adapted from [jeffreythompson.org](http://www.jeffreythompson.org/) under the [Creative Commons Attribution, Non-Commercial, Share-Alike license](http://www.jeffreythompson.org/collision-detection/license.php).
