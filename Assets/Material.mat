@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Material
+  m_Shader: {fileID: 4800000, guid: 1f52a9f53bafb4a0eb30c530df1f317b, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: _TestTex
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TestTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AISpeed: 0.2
+    - _BallRadius: 0.05
+    - _BallSize: 0.02
+    - _BallSpeed: 0.2
+    - _DebugMemory: 0
+    - _GameSpeed: 1
+    - _MaxVolume: 1
+    - _Multiplayer: 0
+    - _NewGame: 0
+    - _PaddleOffsetX: 0.08
+    - _PauseGame: 0
+    - _Player1: 0
+    - _Player1PaddlePos: 0.39
+    - _Player2: 0
+    - _Player2PaddlePos: 0.534
+    - _ScoreOffsetX: 0.1
+    - _ScoreOffsetY: 0.1
+    - _ScoreSpacing: 0.03
+    - _ShadowSteps: 150
+    - _VignetteRadius: 0.553
+    - _VolumeDecaySpeed: 1.53
+    m_Colors:
+    - _BackgroundColor: {r: 0.4078431, g: 0.5170923, b: 0.8392157, a: 0}
+    - _BackgroundColorInner: {r: 0.1344178, g: 0.11814703, b: 0.4245283, a: 0}
+    - _BackgroundColorOuter: {r: 0.051049262, g: 0.04360982, b: 0.18867922, a: 0}
+    - _BallColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BallSize: {r: 0.05, g: 0.05, b: 0, a: 0}
+    - _BallStartPos: {r: 0.5, g: 0.7, b: 0, a: 0}
+    - _Light: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _ObjectColor: {r: 1, g: 1, b: 1, a: 1}
+    - _PaddleColor: {r: 0.8207547, g: 0.8207547, b: 0.8207547, a: 1}
+    - _PaddleSize: {r: 0.01, g: 0.15, b: 0, a: 0}
+    - _ScoreColor: {r: 0.8207547, g: 0.8207547, b: 0.8207547, a: 1}
+    - _ScoreSize: {r: 0.005, g: 0.01, b: 0, a: 0}
+    - _ScoreSpacing: {r: 0.02, g: 0.02, b: 0, a: 0}
+    - _ShadowColor: {r: 0.12149655, g: 0.070309706, b: 0.18867922, a: 0.65882355}
+    - _Vignette: {r: 0.050980344, g: 0.043137193, b: 0.139, a: 0.6666667}
+  m_BuildTextureStacks: []
