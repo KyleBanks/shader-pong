@@ -4,7 +4,7 @@ A simplistic game of pong implemented in a fragment shader and custom Unity rend
 
 There are definitely bugs. 
 
-For more information on the approach, check out the YouTube video: (https://www.youtube.com/@kylebanks)[https://youtu.be/e-hTTVr_pDI]
+For more information on the approach, (check out the YouTube video)[https://youtu.be/e-hTTVr_pDI]!
 
 ## License
 
